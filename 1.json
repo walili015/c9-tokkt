@@ -2,10 +2,8 @@
   "AdsController": {
     "adNetwork": "applovin",
 
-    "applovinBanner": "999999999999999Banner",
+    "applovinInterstitial": "cb79fd2dff2bdf7f",
 
-    "applovinInterstitial": "88888888888Inter",
-
-    "ApplovinNative": "77777777777777Native"
+    "ApplovinNative": "65e7a142bf4a836e"
   }
 }
